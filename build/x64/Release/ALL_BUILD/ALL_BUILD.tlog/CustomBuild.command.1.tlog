@@ -1,0 +1,10 @@
+^C:\USERS\YOURM\DOCUMENTS\TSU\C++\CPP_TIMER_PROJECT\CMAKELISTS.TXT
+setlocal
+C:\apps\bin\cmake.exe -SC:/Users/Yourm/Documents/TSU/C++/cpp_timer_project -BC:/Users/Yourm/Documents/TSU/C++/cpp_timer_project/build --check-stamp-file C:/Users/Yourm/Documents/TSU/C++/cpp_timer_project/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

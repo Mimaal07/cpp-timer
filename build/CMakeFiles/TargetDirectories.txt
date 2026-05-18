@@ -1,0 +1,5 @@
+C:/Users/Yourm/Documents/TSU/C++/cpp_timer_project/build/CMakeFiles/timer_app.dir
+C:/Users/Yourm/Documents/TSU/C++/cpp_timer_project/build/CMakeFiles/timer_tests.dir
+C:/Users/Yourm/Documents/TSU/C++/cpp_timer_project/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/Yourm/Documents/TSU/C++/cpp_timer_project/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Yourm/Documents/TSU/C++/cpp_timer_project/build/CMakeFiles/ZERO_CHECK.dir
